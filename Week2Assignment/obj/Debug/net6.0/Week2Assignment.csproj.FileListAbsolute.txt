@@ -1,0 +1,15 @@
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week2Assignment\bin\Debug\net6.0\Week2Assignment.exe
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week2Assignment\bin\Debug\net6.0\Week2Assignment.deps.json
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week2Assignment\bin\Debug\net6.0\Week2Assignment.runtimeconfig.json
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week2Assignment\bin\Debug\net6.0\Week2Assignment.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week2Assignment\bin\Debug\net6.0\ref\Week2Assignment.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week2Assignment\bin\Debug\net6.0\Week2Assignment.pdb
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week2Assignment\obj\Debug\net6.0\Week2Assignment.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week2Assignment\obj\Debug\net6.0\Week2Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week2Assignment\obj\Debug\net6.0\Week2Assignment.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week2Assignment\obj\Debug\net6.0\Week2Assignment.AssemblyInfo.cs
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week2Assignment\obj\Debug\net6.0\Week2Assignment.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week2Assignment\obj\Debug\net6.0\Week2Assignment.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week2Assignment\obj\Debug\net6.0\ref\Week2Assignment.dll
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week2Assignment\obj\Debug\net6.0\Week2Assignment.pdb
+C:\Users\crist\Documents\School\GAME 1343 Game and Simulation Programming 1\Projects\Week2Assignment\obj\Debug\net6.0\Week2Assignment.genruntimeconfig.cache
